@@ -14,14 +14,14 @@ a { color: #333; text-decoration: none; margin-right: 10px; }
 </head>
 <body>
 <header>
-  <h1>Hi, I'm [Your Name]</h1>
-  <p>Aspiring Computer Scientist | Python & Web Developer</p>
+  <h1>Hi, I'm [Krishika]</h1>
+  <p>Computer Science Student | </p>
 </header>
 <section>
   <h2>Projects</h2>
   <div class="project">
     <h3>Portfolio Website</h3>
-    <p>Built with HTML, CSS, and JS. Showcases my projects and skills.</p>
+    <p>Built with HTML, CSS, and JS.</p>
     <a href="#">View Live</a>
     <a href="#">GitHub Repo</a>
   </div>

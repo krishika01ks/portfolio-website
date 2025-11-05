@@ -14,8 +14,8 @@ a { color: #333; text-decoration: none; margin-right: 10px; }
 </head>
 <body>
 <header>
-  <h1>Hi, I'm [Krishika]</h1>
-  <p>Computer Science Student | </p>
+  <h1>Hello, I'm Krishika</h1>
+  <p>Computer Science Student  </p>
 </header>
 <section>
   <h2>Projects</h2>
